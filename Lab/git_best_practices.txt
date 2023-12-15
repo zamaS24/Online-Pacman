@@ -1,0 +1,5 @@
+- Never have direct commits to the main branch
+- Must have a dev branch, whenever we want to add a new feature, creaate a new feature branch, stage changes, 
+commit them, merge in dev branch. delete feature branch. 
+
+- Once testing with dev branch, merge into main branch
